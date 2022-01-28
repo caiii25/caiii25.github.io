@@ -1,0 +1,17 @@
+html {
+  background-color: black
+}
+
+h2 {
+  color: red;
+  font-family: fantasy;
+  font-size: 55;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 35;
+  line-height: 65px;
+  color: white
+}
